@@ -45,15 +45,7 @@ function Todo(props) {
                 </div>
             ))}
         </>
-        // <div> 
-        //    {a.map((b) => (
-        //        <>
-        //         <p>{b}</p>
-        //         <RiCloseCircleLine />
-        //         <TiEdit />
-        //        </>
-        //    ))}
-        // </div>
+
     );
 
 
